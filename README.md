@@ -1,6 +1,4 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
-
-### DATE: 
+# Ex.No.6.2- SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -46,9 +44,15 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+### support Removal Process
+![image](https://github.com/rdxkeerthi/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147473120/76987798-81ba-481a-948a-9f8de1f6a72e)
+### UV Curing of 3D printed part
+![image](https://github.com/rdxkeerthi/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147473120/cbed23fc-53d1-4f81-85fd-7478d147e720)
+### Heat Treatment of 3D printed part
+![image](https://github.com/rdxkeerthi/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147473120/28374740-b26e-4516-87de-4125a5e23ec9)
 
-### Name:
-### Register Number:
+### Name: Vikamuhan reddy N
+### Register Number: 212223240181
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
